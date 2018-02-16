@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": 1,
   "Image": {
-    "Name": "vmvera/spring-boot-test",
+    "Name": "vmvera/spring-boot-hello",
     "Update": "true"
   },
   "Ports": [
